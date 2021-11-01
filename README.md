@@ -69,4 +69,4 @@ Submit your working python program. Be sure your program produces the graph aske
 third part of the project. Be sure you follow proper conventions for documenting and organizing
 your program. Be sure you run and test your program one last time after saving it.
 
-# For more information, read Project4.pdf 
+# For more information, read Project4.pdf and 0855_001.pdf
